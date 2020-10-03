@@ -1,0 +1,30 @@
+1. Do you need these for deep learning?
+
+Lots of math T / F ----------------------- False
+Lots of data T / F ----------------------- False
+Lots of expensive computers T / F -------- False
+A PhD T / F ------------------------------ False
+
+2. Name five areas where deep learning is now the best in the world.
+A. Text Recognition, Speech Recognition, Text to Speech, Image classification, object detection and segmentation, Medical image CT,
+
+3. What was the name of the first device that was based on the principle of the artificial neuron?
+A. Mark I Perceptron
+
+4. Based on the book of the same name, what are the requirements for parallel distributed processing (PDP)?
+A. 1) 
+
+5. What were the two theoretical misunderstandings that held back the field of neural networks?
+
+6. What is a GPU?
+
+7. Open a notebook and execute a cell containing: 1+1. What happens?
+A. outputs 2
+
+8. Follow through each cell of the stripped version of the notebook for this chapter. Before executing each cell, guess what will happen.
+
+9. Complete the Jupyter Notebook online appendix.
+
+10. Why is it hard to use a traditional computer program to recognize images in a photo?
+A. 
+
