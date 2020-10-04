@@ -6,25 +6,38 @@ Lots of expensive computers T / F -------- False
 A PhD T / F ------------------------------ False
 
 2. Name five areas where deep learning is now the best in the world.
-A. Text Recognition, Speech Recognition, Text to Speech, Image classification, object detection and segmentation, Medical image CT,
-
+A. Text Recognition, Speech Recognition, Text to Speech, Image classification, object detection and segmentation, Medical image interpretation, satellite and drone imagery interpretation
+ 
 3. What was the name of the first device that was based on the principle of the artificial neuron?
 A. Mark I Perceptron
 
 4. Based on the book of the same name, what are the requirements for parallel distributed processing (PDP)?
-A. 1) 
+A. 1) A set of processing units
+   2) A state of activation
+   3) An output function for each unit
+   4) A pattern of connectivity among units
+   5) A propagation rule for propagating patterns of activities through the network of connectivities
+   6) An activation rule for combining the inputs impinging on a unit with the current state of that unit to produce an output for the unit
+   7) A learning rule whereby patterns of connectivity are modified by experience
+   8) An environment within which the system must operate
 
 5. What were the two theoretical misunderstandings that held back the field of neural networks?
+A. 1.) It is not possible to solve all mathematical problems(example XOR) using a single layer neural networks.
+   2.) In theory, adding just one extra layer of neurons was enough to allow any mathematical function to be approximated with these neural networks, but in practice such networks were often too big and too slow to be useful.
 
 6. What is a GPU?
+A. GPU stands for Graphics Processing Unit, also called Graphic Card. A special kind of processor in your computer that can handle thousands of single tasks at the same time, especially designed for displaying 3D environments on a computer for playing games. These same basic tasks are very similar to what neural networks do, such that GPUs can run neural networks hundreds of times faster than regular CPUs.
 
 7. Open a notebook and execute a cell containing: 1+1. What happens?
-A. outputs 2
+A. Outputs 2
 
 8. Follow through each cell of the stripped version of the notebook for this chapter. Before executing each cell, guess what will happen.
 
 9. Complete the Jupyter Notebook online appendix.
 
 10. Why is it hard to use a traditional computer program to recognize images in a photo?
-A. 
+A. Because we have code each and every step explicitly and we don't know what are all the steps that are needed as it all happens in our brain.
+
+11. 
+
 
